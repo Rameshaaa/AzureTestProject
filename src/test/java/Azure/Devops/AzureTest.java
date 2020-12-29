@@ -14,6 +14,7 @@ public class AzureTest {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://webapps.tekstac.com/CustomerRegistration/");
 		System.out.println("URL launched");
+		System.out.println("URL is launched");
 	}
 
 }
