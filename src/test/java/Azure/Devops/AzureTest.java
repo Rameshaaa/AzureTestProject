@@ -15,6 +15,7 @@ public class AzureTest {
 		driver.get("https://webapps.tekstac.com/CustomerRegistration/");
 		System.out.println("URL launched");
 		System.out.println("URL is launched");
+		System.out.println("URL of CR launched");
 	}
 
 }
