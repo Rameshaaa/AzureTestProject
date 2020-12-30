@@ -10,7 +10,7 @@ public class AzureTest {
 	public void azuretest() {
 
 
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\561877\\drivers\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", ("user.dir")+"drivers\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://webapps.tekstac.com/CustomerRegistration/");
 		System.out.println("URL launched");
