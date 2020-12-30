@@ -16,6 +16,7 @@ public class AzureTest {
 		System.out.println("URL launched");
 		System.out.println("URL is launched");
 		System.out.println("URL of CR launched");
+		System.out.println("URL of CRs launched");
 	}
 
 }
